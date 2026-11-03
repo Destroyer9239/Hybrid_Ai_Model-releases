@@ -1,5 +1,5 @@
 <!-- Published to Destroyer9239/Hybrid_Ai_Model-releases as README.md by the release workflow,
-     with 0.8.1 filled in. Edit this copy in the source repository, not the published one.
+     with 0.9.0 filled in. Edit this copy in the source repository, not the published one.
      The in-app About page links to the #privacy and #known-issues sections below. -->
 
 # Hybrid AI Model
@@ -7,22 +7,22 @@
 A desktop assistant for chatting and coding with AI models that run on your own computer, with optional use of your ChatGPT subscription. Every file edit, and every command the AI suggests, waits for your approval.
 
 <p>
-  <a href="https://github.com/Destroyer9239/Hybrid_Ai_Model-releases/releases/download/v0.8.1/Hybrid-AI-Model-Setup-0.8.1.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download_for-Windows-0078D4?style=for-the-badge" height="44"></a>
+  <a href="https://github.com/Destroyer9239/Hybrid_Ai_Model-releases/releases/download/v0.9.0/Hybrid-AI-Model-Setup-0.9.0.exe"><img alt="Download for Windows" src="https://img.shields.io/badge/Download_for-Windows-0078D4?style=for-the-badge" height="44"></a>
   &nbsp;
-  <a href="https://github.com/Destroyer9239/Hybrid_Ai_Model-releases/releases/download/v0.8.1/Hybrid-AI-Model-0.8.1-mac-arm64.dmg"><img alt="Download for Mac (preview)" src="https://img.shields.io/badge/Download_for-Mac_(preview)-111111?style=for-the-badge&logo=apple&logoColor=white" height="44"></a>
+  <a href="https://github.com/Destroyer9239/Hybrid_Ai_Model-releases/releases/download/v0.9.0/Hybrid-AI-Model-0.9.0-mac-arm64.dmg"><img alt="Download for Mac (preview)" src="https://img.shields.io/badge/Download_for-Mac_(preview)-111111?style=for-the-badge&logo=apple&logoColor=white" height="44"></a>
 </p>
 
-**Version 0.8.1.** The Mac button is for Apple silicon (M1 and later) and is a **preview: not yet tested on a real Mac**. Once installed, the app tells you when a new version is out.
+**Version 0.9.0.** The Mac button is for Apple silicon (M1 and later) and is a **preview: not yet tested on a real Mac**. Once installed, the app tells you when a new version is out.
 
 ## Which file do I download?
 
 | Your computer                                                               | File                                           | Notes                                                                                                                                                                |
 | --------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Windows 10 or 11, Intel or AMD (x64)**                                    | `Hybrid-AI-Model-Setup-0.8.1.exe`        | Recommended. Installs for your account only; no administrator rights needed. Updates itself.                                                                         |
-| **Windows 10 or 11 on ARM (ARM64)**, such as a Surface Pro X or Copilot+ PC | `Hybrid-AI-Model-Setup-0.8.1.exe`        | The same installer file; it installs the ARM64 version automatically.                                                                                                |
-| Windows x64, no install                                                     | `Hybrid-AI-Model-0.8.1-portable-x64.exe` | Runs from anywhere, such as a USB drive. **x64 only** (use the installer on ARM). Starts more slowly. Does not update itself: the app tells you and opens this page. |
-| **Mac with Apple silicon** (M1 or later)                                    | `Hybrid-AI-Model-0.8.1-mac-arm64.dmg`    | **Preview: not yet tested on a real Mac.** Open it and drag the app to Applications.                                                                                 |
-| **Mac with an Intel processor**                                             | `Hybrid-AI-Model-0.8.1-mac-x64.dmg`      | **Preview: not yet tested on a real Mac.** Same steps.                                                                                                               |
+| **Windows 10 or 11, Intel or AMD (x64)**                                    | `Hybrid-AI-Model-Setup-0.9.0.exe`        | Recommended. Installs for your account only; no administrator rights needed. Updates itself.                                                                         |
+| **Windows 10 or 11 on ARM (ARM64)**, such as a Surface Pro X or Copilot+ PC | `Hybrid-AI-Model-Setup-0.9.0.exe`        | The same installer file; it installs the ARM64 version automatically.                                                                                                |
+| Windows x64, no install                                                     | `Hybrid-AI-Model-0.9.0-portable-x64.exe` | Runs from anywhere, such as a USB drive. **x64 only** (use the installer on ARM). Starts more slowly. Does not update itself: the app tells you and opens this page. |
+| **Mac with Apple silicon** (M1 or later)                                    | `Hybrid-AI-Model-0.9.0-mac-arm64.dmg`    | **Preview: not yet tested on a real Mac.** Open it and drag the app to Applications.                                                                                 |
+| **Mac with an Intel processor**                                             | `Hybrid-AI-Model-0.9.0-mac-x64.dmg`      | **Preview: not yet tested on a real Mac.** Same steps.                                                                                                               |
 
 Not sure which Mac you have? Apple menu, **About This Mac**: "Chip: Apple M…" means Apple silicon; "Processor: Intel…" means Intel. The `.zip`, `.blockmap` and `latest*.yml` files are used by updates and can be ignored.
 
